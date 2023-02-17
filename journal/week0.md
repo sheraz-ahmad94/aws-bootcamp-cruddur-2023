@@ -4,6 +4,18 @@
 
 Here is my journal for the week 0 challenges and what I did about them.
 
+## Watched Week 0 - Live Streamed Video
+Yes. I watched the live stream, twice. Once live, and the other time when I was doing the challenges.
+
+## Watched Chirag's Week 0 - Spend Considerations
+I did.
+
+## Watched Ashish's Week 0 - Security Considerations
+Done
+
+## Recreate Conceptual Diagram in Lucid Charts or on a Napkin
+Done. Following along the live stream I made **[THIS](https://lucid.app/lucidchart/604affa5-4b62-4366-b59a-70fb08449474/edit?viewport_loc=-59%2C-174%2C2389%2C1148%2C0_0&invitationId=inv_96baacf3-54d8-4d87-b679-a7d7d3925705)** in the Lucid Chart.
+
 ## Destroy your root account credentials, Set MFA, IAM role
 > Setting Up MFA
 - Logged in using the Amazon AWS login page and went to Security Credentials in the top right corner.
@@ -32,7 +44,7 @@ Here is my journal for the week 0 challenges and what I did about them.
  
 ![4](https://user-images.githubusercontent.com/57315716/219816142-37c47d94-116b-4b0b-896c-f58754f509bc.png)
 
-##Review all the questions of each pillars in the Well Architected Tool
+## Review all the questions of each pillars in the Well Architected Tool
 > DONE
 
 ## 
