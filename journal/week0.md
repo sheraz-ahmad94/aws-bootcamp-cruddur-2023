@@ -16,6 +16,25 @@ Done
 ## Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 Done. Following along the live stream I made **[THIS](https://lucid.app/lucidchart/604affa5-4b62-4366-b59a-70fb08449474/edit?viewport_loc=-59%2C-174%2C2389%2C1148%2C0_0&invitationId=inv_96baacf3-54d8-4d87-b679-a7d7d3925705)** in the Lucid Chart.
 
+## Use CloudShell
+I opened the CloudShell from it's icon in the top bar and enabled the auto completion using the command:
+```bash
+aws --cli-auto-prompt
+```
+and then:
+```bash
+aws sts get-caller-identity
+```
+To generate the following result:
+```bash
+{
+    "UserId": "AIDA44W****SJORRGS4A",
+    "Account": "886****93587",
+    "Arn": "arn:aws:iam::886****93587:user/gamehaxxorr"
+}
+[cloudshell-user@ip-10-2-55-26 ~]$ 
+```
+
 ## Destroy your root account credentials, Set MFA, IAM role
 > Setting Up MFA
 - Logged in using the Amazon AWS login page and went to Security Credentials in the top right corner.
