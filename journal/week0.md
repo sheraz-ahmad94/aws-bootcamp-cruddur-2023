@@ -35,6 +35,17 @@ To generate the following result:
 [cloudshell-user@ip-10-2-55-26 ~]$ 
 ```
 
+## Installed AWS CLI
+Then I installed the AWS CLI in my local machine. Since I am using Windows 10, I followed the instructions for Windows:
+I downloaded the MSI Installer and opened it to install Amazon AWS CLI. And then tested it using the following command in Windows Command Prompt:
+```bash
+aws --version
+```
+To generate the following result:
+```bash
+aws-cli/2.10.1 Python/3.9.11 Windows/10 exe/AMD64 prompt/off
+```
+
 ## Destroy your root account credentials, Set MFA, IAM role
 > Setting Up MFA
 - Logged in using the Amazon AWS login page and went to Security Credentials in the top right corner.
