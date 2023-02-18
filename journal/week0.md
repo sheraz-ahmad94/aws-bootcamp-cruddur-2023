@@ -16,6 +16,8 @@ Done
 ## Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 Done. Following along the live stream I made **[THIS](https://lucid.app/lucidchart/604affa5-4b62-4366-b59a-70fb08449474/edit?viewport_loc=-59%2C-174%2C2389%2C1148%2C0_0&invitationId=inv_96baacf3-54d8-4d87-b679-a7d7d3925705)** in the Lucid Chart.
 
+![5](https://user-images.githubusercontent.com/57315716/219867327-0c531cfc-4c87-4f76-8519-99a32b0e2ad0.png)
+
 ## Use CloudShell
 I opened the CloudShell from it's icon in the top bar and enabled the auto completion using the command:
 ```bash
@@ -45,6 +47,12 @@ To generate the following result:
 ```bash
 aws-cli/2.10.1 Python/3.9.11 Windows/10 exe/AMD64 prompt/off
 ```
+
+## Recreate Logical Architectual Diagram in Lucid Charts
+Went on to create the logical architectural diagram in lucid charts. The diagram can be accessed using [THIS](https://lucid.app/lucidchart/a461fe5e-492b-4e4b-aeeb-7235bb732bbe/edit?viewport_loc=-209%2C75%2C2389%2C1148%2C0_0&invitationId=inv_eeaa5766-325d-409b-94ad-1dd0aa9cb194) link. And a screenshot of it is added here as well:
+
+![6](https://user-images.githubusercontent.com/57315716/219867308-2f0a77cf-3178-4952-9fab-76425b575cdf.png)
+
 
 ## Destroy your root account credentials, Set MFA, IAM role
 > Setting Up MFA
